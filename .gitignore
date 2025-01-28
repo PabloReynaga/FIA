@@ -1,0 +1,4 @@
+*.env
+model/exam_catalog.pdf
+
+*/__init__.py
